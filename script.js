@@ -111,6 +111,15 @@ const questions = [
     { text: 'african woman', correct: false }
   ]
 },
+{
+question: 'What is  my food fav?',
+answers: [
+  { text: 'bread', correct: true },
+  { text: 'fish', correct: true },
+  { text: 'steak', correct: false },
+  { text: 'sandwich', correct: true }
+]
+},
   {
     question: 'What is 4 * 2?',
     answers: [
