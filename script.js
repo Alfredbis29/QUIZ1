@@ -120,6 +120,16 @@ answers: [
   { text: 'sandwich', correct: true }
 ]
 },
+{
+  question: 'What is my fav sport ?',
+  answers: [
+    { text: 'Soccer', correct: false },
+    { text: 'Basketball', correct: false },
+    { text: 'Running', correct: true },
+    { text: 'Tennis', correct: false }
+    
+  ]
+  },
   {
     question: 'What is 4 * 2?',
     answers: [
