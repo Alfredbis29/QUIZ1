@@ -103,6 +103,15 @@ const questions = [
     ]
   },
   {
+  question: 'Who is Odila?',
+  answers: [
+    { text: 'Alfred Mother ', correct: true },
+    { text: ' alfred Friend', correct: false },
+    { text: 'Dev Ed', correct: false },
+    { text: 'african woman', correct: false }
+  ]
+},
+  {
     question: 'What is 4 * 2?',
     answers: [
       { text: '6', correct: false },
