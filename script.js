@@ -117,7 +117,7 @@ answers: [
   { text: 'bread', correct: false },
   { text: 'fish', correct: true },
   { text: 'steak', correct: false },
-  { text: 'sandwich', correct: false }
+  { text: 'sandwich', correct: true }
 ]
 },
 {
