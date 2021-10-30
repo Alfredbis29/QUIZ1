@@ -115,7 +115,7 @@ const questions = [
 question: 'What is  my food fav?',
 answers: [
   { text: 'bread', correct: false },
-  { text: 'fish', correct: true },
+  { text: 'fish', correct: false },
   { text: 'steak', correct: false },
   { text: 'sandwich', correct: true }
 ]
