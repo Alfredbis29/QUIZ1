@@ -133,9 +133,9 @@ answers: [
   {
   question: 'What is my age ?',
   answers: [
-    { text: '18 ', correct: true },
+    { text: '18 ', correct: false },
     { text: '67', correct: false },
-    { text: '21', correct: false },
+    { text: '21', correct: true },
     { text: '45', correct: false }
   ]
 },
