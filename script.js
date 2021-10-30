@@ -140,10 +140,10 @@ answers: [
   ]
 },
   {
-    question: 'What is 4 * 2?',
+    question: 'What is 2 * 2?',
     answers: [
       { text: '6', correct: false },
-      { text: '8', correct: true }
+      { text: '4', correct: true }
     ]
   }
 ]
