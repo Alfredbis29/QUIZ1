@@ -131,6 +131,15 @@ answers: [
   ]
   },
   {
+  question: 'What is my age ?',
+  answers: [
+    { text: '18 ', correct: true },
+    { text: '67', correct: false },
+    { text: '21', correct: false },
+    { text: '45', correct: false }
+  ]
+},
+  {
     question: 'What is 4 * 2?',
     answers: [
       { text: '6', correct: false },
