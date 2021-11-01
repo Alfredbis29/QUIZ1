@@ -77,13 +77,13 @@ function clearStatusClass(element) {
 }
 
 const questions = [
-  // {
-  //   question: 'What is 4 + 4?',
-  //   answers: [
-  //     { text: '8', correct: true },
-  //     { text: '22', correct: false }
-  //   ]
-  // },
+  {
+    question: 'What is 4 + 4?',
+    answers: [
+      { text: '8', correct: true },
+      { text: '22', correct: false }
+    ]
+  },
   {
     question: 'Who is Alfred Bisimwa?',
     answers: [
