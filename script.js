@@ -112,15 +112,6 @@ const questions = [
   ]
 },
 {
-question: 'What is  my food fav?',
-answers: [
-  { text: 'bread', correct: false },
-  { text: 'fish', correct: true },
-  { text: 'steak', correct: false },
-  { text: 'sandwich', correct: true }
-]
-},
-{
   question: 'What is my fav sport ?',
   answers: [
     { text: 'Soccer', correct: false },
