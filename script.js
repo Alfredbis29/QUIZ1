@@ -94,6 +94,15 @@ const questions = [
     ]
   },
   {
+    question: 'Who is Alfred Bisimwa?',
+    answers: [
+      { text: 'Web dev ', correct: true },
+      { text: 'Musician', correct: true },
+      { text: 'Dev Ed', correct: false },
+      { text: 'Fun Fun Function', correct: true }
+    ]
+  },
+  {
     question: 'Is web development fun?',
     answers: [
       { text: 'Kinda', correct: false },
@@ -118,7 +127,6 @@ const questions = [
 //     { text: 'Basketball', correct: false },
 //     { text: 'Running', correct: true },
 //     { text: 'Tennis', correct: false }
-    
 //   ]
 //   },
   {
