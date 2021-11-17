@@ -78,7 +78,7 @@ function clearStatusClass(element) {
 
 const questions = [
   {
-    question: 'What is 3 + 3?',
+    question: 'What is 10 + 3?',
     answers: [
       { text: '6', correct: true },
       { text: '22', correct: false }
