@@ -130,9 +130,9 @@ const questions = [
   ]
 },
   {
-    question: 'What is 4 * 2?',
+    question: 'What is 4 * 4?',
     answers: [
-      { text: '8', correct: false },
+      { text: '16', correct: false },
       { text: '4', correct: true }
     ]
   }
