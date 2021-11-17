@@ -80,8 +80,8 @@ const questions = [
   {
     question: 'What is 10 + 4?',
     answers: [
-      { text: '34', correct: true },
-      { text: '14', correct: false }
+      { text: '34', correct: false },
+      { text: '14', correct: true }
     ]
   },
   {
