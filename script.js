@@ -104,7 +104,7 @@ const questions = [
   },
   {
   question: 'Who is Odila?',
-  answers: [
+  answers:[
     { text: 'Alfred Mother ', correct: true },
     { text: ' alfred Friend', correct: false },
     { text: 'Dev Ed', correct: false },
@@ -114,7 +114,7 @@ const questions = [
 {
   question: 'What is my fav sport ?',
   answers: [
-    { text: 'Soccer', correct: false },
+    { text: 'Soccer', correct: true},
     { text: 'Basketball', correct: false },
     { text: 'Running', correct: true },
     { text: 'Tennis', correct: false }
