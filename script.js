@@ -117,7 +117,7 @@ const questions = [
     { text: 'Soccer', correct: false},
     { text: 'Basketball', correct:true },
     { text: 'Running', correct: true },
-    { text: 'Tennis', correct: true }
+    { text: 'Tennis', correct: false }
   ]
   },
   {
