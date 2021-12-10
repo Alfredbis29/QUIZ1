@@ -114,7 +114,7 @@ const questions = [
 {
   question: 'What is my fav sport ?',
   answers: [
-    { text: 'Soccer', correct: true},
+    { text: 'Soccer', correct: false},
     { text: 'Basketball', correct:true },
     { text: 'Running', correct: true },
     { text: 'Tennis', correct: false }
