@@ -105,9 +105,9 @@ const questions = [
   {
   question: 'Who is Odila?',
   answers:[
-    { text: 'best friend', correct: false },
+    { text: 'best mom', correct: false },
     { text: ' alfred Friend', correct: false },
-    { text: 'Alfred Mother ', correct: true },
+    { text: 'Alfred enemy', correct: true },
     { text: 'african woman', correct: false }
   ]
 },
