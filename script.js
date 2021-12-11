@@ -88,7 +88,7 @@ const questions = [
     question: 'Who is Alfred Bisimwa?',
     answers: [
       { text: 'Web dev ', correct: true },
-      { text: 'Musician', correct: true },
+      { text: 'Musician', correct: false },
       { text: 'Dev Ed', correct: false },
       { text: 'Fun Fun Function', correct: true }
     ]
