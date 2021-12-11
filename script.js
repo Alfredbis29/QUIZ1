@@ -90,7 +90,7 @@ const questions = [
       { text: 'Web dev ', correct: true },
       { text: 'Musician', correct: false },
       { text: 'Dev Ed', correct: false },
-      { text: 'Fun Fun Function', correct: true }
+      { text: 'Fun Fun Function', correct: false }
     ]
   },
   {
