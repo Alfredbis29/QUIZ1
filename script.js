@@ -123,7 +123,7 @@ const questions = [
   {
   question: 'What is my age ?',
   answers: [
-    { text: '22 ', correct: false },
+    { text: '56 ', correct: false },
     { text: '67', correct: false },
     { text: '21', correct: true },
     { text: '45', correct: false }
