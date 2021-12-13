@@ -41,7 +41,7 @@ function showQuestion(question) {
 
 function resetState() {
   clearStatusClass(document.body)
-  nextButton.classList.add('hide')
+  nextButton.classList.add('show')
   while (answerButtonsElement.firstChild) {
     answerButtonsElement.removeChild(answerButtonsElement.firstChild)
   }
