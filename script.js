@@ -94,14 +94,14 @@ const questions = [
     ]
   },
   {
-  //   question: 'Is web development fun?',
-  //   answers: [
-  //     { text: 'Kinda', correct: false },
-  //     { text: 'YES!!!', correct: true },
-  //     { text: 'Um no', correct: false },
-  //     { text: 'IDK', correct: false }
-  //   ]
-  // },
+    question: 'Is web development fun?',
+    answers: [
+      { text: 'Kinda', correct: false },
+      { text: 'YES!!!', correct: true },
+      { text: 'Um no', correct: false },
+      { text: 'IDK', correct: false }
+    ]
+  },
   {
   question: 'Who is Odila?',
   answers:[
