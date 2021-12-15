@@ -85,7 +85,7 @@ const questions = [
     ]
   },
   {
-    question: 'Who is Alfred Bisimw?',
+    question: 'Who is Alfred Bisimwa?',
     answers: [
       { text: 'full-stuck dev ', correct: true },
       { text: 'Musician', correct: false },
