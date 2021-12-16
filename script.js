@@ -132,8 +132,8 @@ const questions = [
   {
     question: 'What is 4 * 4?',
     answers: [
-      { text: '16', correct: false },
-      { text: '4', correct: true }
+      { text: '16', correct: true },
+      { text: '4', correct: false }
     ]
   }
 ]
